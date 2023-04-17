@@ -31,6 +31,6 @@ In this workshop, you will learn how to:
 * Required Subnets: One public subnet for the Bastion host and three private subnets to host the Domain Controller, Microsoft SQL Server Nodes, and Quorum Server
 
 ## Acknowledgements
-* **Author** - Devinder Pal Singh, Senior Cloud Engineer, NA Cloud Engineering
-* **Contributors** -  Ramesh Babu Donti, Principal Cloud Architect, NA Cloud Engineering
-* **Last Updated By/Date** - Devinder Pal Singh, Senior Cloud Engineer, NA Cloud Engineering, July 2022
+* **Author** - Amal Sharma, Principal Cloud Architect, NA Cloud Engineering
+* **Contributors** -  Mukund Bhashkar, Senior Cloud Engineer, NA Cloud Engineering
+* **Last Updated By/Date** - Amal Sharma, Principal Cloud Architect, NA Cloud Engineering, April 2023
